@@ -16,3 +16,4 @@ pyparsing
 pandas
 
 kivy==2.0.0rc2
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
